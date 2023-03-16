@@ -1,7 +1,7 @@
-<div class="row d-flex align-item-center wrapper justify-content-center" id="forgot-password-box">
+<div class="row  align-item-center wrapper justify-content-center" style="display:none" id="forgot-password-box">
     <div class="col-10 my-auto">
-        <div class="my-auto d-flex justify-content-center">
-            <img src="./asset/images/signin.png" class="w-75 w-md-50 h-md-50 h-75" />
+        <div class="my-auto d-flex justify-content-center w-100 h-100">
+            <img src="./asset/images/forgotpassword.png" class="w-50" />
         </div>
         <div class="card-group">
             <div class="card-rounded-left p-4" style="flex-grow:1.4;">

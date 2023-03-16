@@ -1,0 +1,10 @@
+.wrapper{
+    height: 100vh;
+}
+
+.myBtn{
+    border-radius: 50px;
+    font-weight: bold;
+    font-style: 20px;
+    background-image: linear-gradient(to right,#0acffe 0%,#495aff 100%);
+}
